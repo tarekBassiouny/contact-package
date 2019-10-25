@@ -1,0 +1,19 @@
+{
+    "name": "tbassiouny/contact",
+    "description": "This will send email to admin save contact query to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tarekbassiouny",
+            "email": "tarek.bassiuony22@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tbassiouny\\Contact\\": "src/"
+        }
+    }
+}
