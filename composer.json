@@ -15,5 +15,12 @@
         "psr-4": {
             "Tbassiouny\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tbassiouny\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
