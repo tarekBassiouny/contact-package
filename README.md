@@ -1,6 +1,6 @@
 # Contact Us From Package
 
-[![Latest Version](https://img.shields.io/github/release/tarekBassiouny/contact-package](https://github.com/tarekBassiouny/contact-package/releases)
+[![Latest Version](https://img.shields.io/github/release/tarekBassiouny/contact-package?style=flat-square)](https://github.com/tarekBassiouny/contact-package/releases)
 
 [![Issues](https://img.shields.io/github/issues/tarekBassiouny/contact-package?style=flat-square)](https://github.com/tarekBassiouny/contact-package/issues)
 
