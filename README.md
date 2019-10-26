@@ -19,4 +19,4 @@
         <img src="https://img.shields.io/github/license/tarekBassiouny/contact-package?style=flat-square" alt="License"> 
     </a>
 </p>
-## This will send email to admin save contact query to database
+## This will send email to admin and save contact query to database
